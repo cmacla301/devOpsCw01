@@ -29,6 +29,6 @@ class Dec2Hex {
             }
         }
 
-        System.out.println(" test Hexadecimal representation is: " + hexadecimal);
+        System.out.println("Hexadecimal representation is: " + hexadecimal);
     }
 }
